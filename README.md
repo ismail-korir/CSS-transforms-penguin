@@ -7,12 +7,7 @@ A fun penguin character built using HTML5 and CSS3 with CSS transforms.
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 The "CSS Transforms Penguin" project is a creative demonstration of using CSS3 transforms to create a charming and visually appealing penguin character. This project showcases how CSS transforms can be used to manipulate elements on a webpage, making it an excellent learning resource for web developers and CSS enthusiasts.
